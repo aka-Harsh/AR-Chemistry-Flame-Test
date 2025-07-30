@@ -13,8 +13,6 @@ A cutting-edge augmented reality chemistry laboratory simulator that brings flam
 
 ## 🎥 Demo Video
 
-> *Interactive AR chemistry lab with real-time flame test simulations and educational content*
-
 https://github.com/user-attachments/assets/b5836d9f-c3ae-4ca3-9c8a-5ed88e938484
 
 ---
